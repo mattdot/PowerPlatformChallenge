@@ -1,18 +1,16 @@
 # Take Home Engineering Challenge
 
-We are a very practical team at Microsoft and this extends to the way that we work with you to find out if this team is a great fit for you. We want you to come away with a great understanding of the work that we actually do day to day and what it is like to work with us.
+We are a very practical team at Microsoft and this extends to the way that we work with you to find out if this team is a great fit for you. We want you to gain a great understanding of the work that we actually do day to day and what it is like to work with us.
 
 So instead of coding at a whiteboard with someone watching over your shoulder under high pressure, which is not a thing we often do, we instead discuss code that you have written previously when we meet.
 
-This can be a project of your own or a substantial pull request on a third party project, but some folks have done largely private or proprietary work, and this engineering challenge is for you.
-
 ## Guidelines
 
--   This is meant to be an assignment that you spend approximately three hours of dedicated, focused work. Do not feel like you need to overengineer the solution with dozens of hours to impress us. Be biased toward quality over quantity.
+-   This is meant to be an assignment for which you spend approximately three hours of dedicated, focused work. Do not feel like you need to overengineer the solution with dozens of hours to impress us. Be biased toward quality over quantity.
 
 -   Think of this like an open source project. Create a repo on Github, use git for source control, and use README.md to document what you built for the newcomer to your project.  Feel free to create a private repo and share it with us if you prefer to keep your submission out of public view.
 
--   Our team builds, alongside our customers and partners, systems engineered to run in production. Given this, please organize, design, test, deploy, and document your solution as if you were going to put into production. We completely understand this might mean you can't do as much in the time budget. Be biased for production-ready over features.
+-   Our team builds, alongside our customers and partners, systems engineered to run in production. Given this, please organize, design, test, deploy, and document your solution as if you were going to put into production. We completely understand this might mean you can't do as much in the time budget. Be biased toward production-ready work over features.
 
 -   Think out loud in your submission's documentation. Document tradeoffs, the rationale behind your technical choices, or things you would do or do differently if you were able to spend more time on the project or do it again.
 
@@ -24,8 +22,8 @@ Helping frontline workers complete their day to day tasks is a common business s
 
 ## The Assignment
 
-This is a freeform assignment.  Feel free to tackle this problem in a way that demonstrates your expertise of an area -- or takes you out of your comfort zone.  For example, you could ...
-* build a UI that helps building inspectors complete their assigned inspections
+This is a freeform assignment.  Feel free to tackle this problem in a way that demonstrates your expertise of an area -- or takes you out of your comfort zone.  For example, you could build ...
+* a UI that helps building inspectors complete their assigned inspections
 * an integration with a collaboration app like teams or outlook
 * a virtual agent that helps coordinate the work
 * something else you think would be valuable for the building inspectors
