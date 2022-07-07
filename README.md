@@ -35,3 +35,4 @@ Good luck! Please send a link to your solution on Github back to us at least 12 
 ## Resources
 * [Free Power Platform Developer Plan](https://docs.microsoft.com/en-us/powerapps/maker/developer-plan)
 * [What is a “Dev Tenant” and why would you want one?](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/what-is-a-dev-tenant-and-why-would-you-want-one/ba-p/2036610)
+* [Commercial Software Engineering's Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/)
